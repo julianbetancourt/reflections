@@ -1,27 +1,27 @@
 How did viewing a diff between two versions of a file help you see the bug that was introduced?
-It helps a lot because I don't have to go and compare the two files
-by myself, rather, diff finds and shows the two different versions.
+	It helps a lot because I don't have to go and compare the two files
+	by myself, rather, diff finds and shows the two different versions.
 
 How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
-Because I can compare different versions of the project very quickly
+	Because I can compare different versions of the project very quickly
 
 What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
-Pros: It is flexible. Meaning you, the programmer, can choose when it is the best time to reflect
-a change
-Cons: It might be too flexible. Since we can decide when to commit, we can make mistakes and comitting
-too small or too big changes.
+	Pros: It is flexible. Meaning you, the programmer, can choose when it is the best time to reflect
+	a change
+	Cons: It might be too flexible. Since we can decide when to commit, we can make mistakes and comitting
+	too small or too big changes.
 
 Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
-Because several files might be involved in a single change.
+	Because several files might be involved in a single change.
 
 How can you use the commands git log and git diff to view the history of files?
-git log will show me all commits for that repository. git diff commitid1 commitid2 will compare two commits and show their insertions and deletions.
-git log --stat will show all commits and the insertions, deletions for a specific commit.
+	git log will show me all commits for that repository. git diff commitid1 commitid2 will compare two commits and show their insertions and deletions.
+	git log --stat will show all commits and the insertions, deletions for a specific commit.
 
 How might using version control make you more confident to make changes that could break something?
-Because with git, I can go back to previous versions of the code
+	Because with git, I can go back to previous versions of the code
 
 Now that you have your workspace set up, what do you want to try using Git for?
-To versionate my future projects
+	To versionate my future projects
 
 
