@@ -5,3 +5,10 @@ metadata related to the history of the repository
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Files in the staging area are ready to be commited.
 
+How can you use the staging area to make sure you have one commit per logical change?
+When writing git commit, just the files in the staged area will be commited, besides,
+I can use git diff --staged to compare the files in the staged area and the ones in the latest commit
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When making experimental changes or making a new language version. Branches can help because
+I can mess with the code without affecting the working version.
