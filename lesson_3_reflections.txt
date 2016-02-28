@@ -10,3 +10,8 @@ Describe the differences between forks, clones, and branches. When would you use
 	Clone: Will clone an existing project from a local machine or from the cloud (e.g via github) to my local machine. Use
 	when I want to have in my local machine a given project.
 	Branch: New "line" of work that helps mantaining the repository more organized.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	If I'm going to working offline I can update my local copy before going offline.
+
+
